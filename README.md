@@ -300,7 +300,7 @@ Contributions are welcome.
 
 # 📄 License
 
-This project is intended for educational and business demonstration purposes.
+This project is intended for Personal and business demonstration purposes.
 
 ---
 
@@ -308,6 +308,6 @@ This project is intended for educational and business demonstration purposes.
 
 **Gaurav Kumar**
 
-AI & Full Stack Developer
+AI & ML Developer
 
 Built with ❤️ using Flask and Modern Web Technologies.
