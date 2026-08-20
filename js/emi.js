@@ -1,0 +1,1 @@
+export function calculateEmi(principal, annualRate, years) { const months = years * 12; const rate = annualRate / 1200; const emi = rate === 0 ? principal / months : principal * rate * (1 + rate) ** months / ((1 + rate) ** months - 1); return { emi, interest: emi * months - principal }; }
